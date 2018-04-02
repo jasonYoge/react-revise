@@ -1,0 +1,10 @@
+{
+  "name": "react_revise",
+  "version": "1.0.0",
+  "description": "Test work for react.",
+  "main": "index.js",
+  "repository": "https://github.com/planningFor/react-revise.git",
+  "author": "Jason Young <planningFor@github.com>",
+  "license": "MIT",
+  "private": true
+}
